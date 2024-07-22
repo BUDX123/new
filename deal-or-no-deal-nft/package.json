@@ -1,0 +1,17 @@
+{
+  "name": "deal-or-no-deal-nft",
+  "version": "1.0.0",
+  "description": "Deal or No Deal inspired NFT collection with dynamic prize updates.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
